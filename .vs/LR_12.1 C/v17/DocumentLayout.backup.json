@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dara\\source\\repos\\LR_12.1 C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61DE60DC-1BF4-4146-B4F6-CC84C0E56626}|LR_12.1 C\\LR_12.1 C.vcxproj|C:\\Users\\Dara\\source\\repos\\LR_12.1 C\\LR_12.1 C\\LR_12.1 C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61DE60DC-1BF4-4146-B4F6-CC84C0E56626}|LR_12.1 C\\LR_12.1 C.vcxproj|solutionrelative:LR_12.1 C\\LR_12.1 C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86D3C47-CC27-4885-BD31-1A216266DC78}|UnitTest\\UnitTest.vcxproj|C:\\Users\\Dara\\source\\repos\\LR_12.1 C\\UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C86D3C47-CC27-4885-BD31-1A216266DC78}|UnitTest\\UnitTest.vcxproj|solutionrelative:UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest.cpp",
+              "DocumentMoniker": "C:\\Users\\Dara\\source\\repos\\LR_12.1 C\\UnitTest\\UnitTest.cpp",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest.cpp",
+              "ToolTip": "C:\\Users\\Dara\\source\\repos\\LR_12.1 C\\UnitTest\\UnitTest.cpp",
+              "RelativeToolTip": "UnitTest\\UnitTest.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwBcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T12:03:27.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LR_12.1 C.cpp",
+              "DocumentMoniker": "C:\\Users\\Dara\\source\\repos\\LR_12.1 C\\LR_12.1 C\\LR_12.1 C.cpp",
+              "RelativeDocumentMoniker": "LR_12.1 C\\LR_12.1 C.cpp",
+              "ToolTip": "C:\\Users\\Dara\\source\\repos\\LR_12.1 C\\LR_12.1 C\\LR_12.1 C.cpp*",
+              "RelativeToolTip": "LR_12.1 C\\LR_12.1 C.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T11:50:00.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
